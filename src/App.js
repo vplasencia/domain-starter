@@ -262,7 +262,7 @@ const App = () => {
     <div className="grid justify-center items-center gap-5">
       <img
         src="https://media.giphy.com/media/JsmYvzaW07DgcOC0s4/giphy.gif"
-        alt="Ninja gif"
+        alt="Lol gif"
         width={"250px"}
       />
       <button
